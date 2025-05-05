@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "vvip.itsbad.biz.id"; // Ganti dengan domain utama kalian
+const rootDomain = "itsbad.biz.id"; // Ganti dengan domain utama kalian
 const serviceName = "vvip"; // Ganti dengan nama workers kalian
 const apiKey = "6dlroxn-w9qgovEl0Uf-SUZi7CWQKX7XzOnQ4YlQ"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "isbadd84@gmail.com"; // Ganti dengan email yang kalian gunakan
